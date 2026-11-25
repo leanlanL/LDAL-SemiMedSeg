@@ -1,10 +1,10 @@
-# Local Difficulty Aware Learning for Semi-Supervised Medical Image Segmentation with Limited Annotations
+# Learning with Local Difficulty Awareness for Semi-Supervised Medical Image Segmentation
 
 This repository provides reproducibility information for the manuscript:
 
-**Local Difficulty Aware Learning for Semi-Supervised Medical Image Segmentation with Limited Annotations**
+**Learning with Local Difficulty Awareness for Semi-Supervised Medical Image Segmentation**
 
-The full source code will be released after manuscript acceptance.
+The source code, configuration files, and evaluation scripts will be released after manuscript acceptance.
 
 ## Overview
 
